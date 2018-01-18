@@ -1,1 +1,3 @@
-This is just a file for checking the first commit
+This is just a file for checking the first commit.
+
+This is the change which is to be saved in the second commit
